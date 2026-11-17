@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Frasco de perfume ámbar transparente con tapa negra">
+  <defs>
+    <linearGradient id="v" x1="0" x2="1">
+      <stop offset="0" stop-color="#a8641c"/><stop offset=".22" stop-color="#ffd48a"/><stop offset=".4" stop-color="#e2992f"/>
+      <stop offset=".8" stop-color="#b9701f"/><stop offset=".94" stop-color="#f2b255"/><stop offset="1" stop-color="#8f4f12"/>
+    </linearGradient>
+    <linearGradient id="k" x1="0" x2="1">
+      <stop offset="0" stop-color="#0a0a0c"/><stop offset=".3" stop-color="#3a3a42"/><stop offset=".6" stop-color="#0d0d10"/><stop offset="1" stop-color="#050506"/>
+    </linearGradient>
+    <radialGradient id="s" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".3"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="200" cy="468" rx="112" ry="14" fill="url(#s)"/>
+  <rect x="166" y="30" width="68" height="72" rx="8" fill="url(#k)"/>
+  <rect x="174" y="38" width="8" height="56" rx="3" fill="#fff" opacity=".14"/>
+  <rect x="182" y="102" width="36" height="30" fill="url(#k)"/>
+  <path d="M108 190 Q108 166 140 164 L260 164 Q292 166 292 190 L292 440 Q292 464 264 464 L136 464 Q108 464 108 440 Z" fill="url(#v)"/>
+  <path d="M122 192 Q122 182 142 180 L170 180" stroke="#fff" stroke-opacity=".6" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="118" y="204" width="10" height="226" rx="5" fill="#fff" opacity=".22"/>
+  <rect x="146" y="320" width="108" height="64" rx="3" fill="#0a0a0c" opacity=".88"/>
+  <rect x="160" y="340" width="80" height="3" fill="#ffd48a" opacity=".8"/>
+  <rect x="176" y="356" width="48" height="3" fill="#ffd48a" opacity=".5"/>
+</svg>

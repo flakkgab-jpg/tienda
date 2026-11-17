@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Frasco de perfume negro con tapa cobre">
+  <defs>
+    <linearGradient id="v" x1="0" x2="1">
+      <stop offset="0" stop-color="#050506"/><stop offset=".18" stop-color="#2a2a30"/><stop offset=".3" stop-color="#0a0a0c"/>
+      <stop offset=".8" stop-color="#050506"/><stop offset=".93" stop-color="#26262b"/><stop offset="1" stop-color="#050506"/>
+    </linearGradient>
+    <linearGradient id="c" x1="0" x2="1">
+      <stop offset="0" stop-color="#7a4a2c"/><stop offset=".35" stop-color="#e9b48a"/><stop offset=".6" stop-color="#b8754a"/><stop offset="1" stop-color="#6b3f24"/>
+    </linearGradient>
+    <linearGradient id="t" x1="0" x2="1">
+      <stop offset="0" stop-color="#0c0c0e"/><stop offset=".25" stop-color="#34343a"/><stop offset=".5" stop-color="#0c0c0e"/><stop offset="1" stop-color="#050506"/>
+    </linearGradient>
+    <radialGradient id="s" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".35"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="200" cy="468" rx="120" ry="14" fill="url(#s)"/>
+  <rect x="146" y="30" width="108" height="64" rx="4" fill="url(#t)"/>
+  <rect x="152" y="36" width="12" height="52" rx="3" fill="#fff" opacity=".12"/>
+  <rect x="172" y="94" width="56" height="42" fill="url(#c)"/>
+  <rect x="165" y="130" width="70" height="14" rx="3" fill="url(#c)"/>
+  <path d="M96 190 Q96 172 118 170 L282 170 Q304 172 304 190 L304 446 Q304 462 286 462 L114 462 Q96 462 96 446 Z" fill="url(#v)"/>
+  <path d="M110 190 Q110 182 124 181 L148 181" stroke="#fff" stroke-opacity=".35" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="106" y="196" width="10" height="240" rx="5" fill="#fff" opacity=".10"/>
+  <rect x="150" y="318" width="100" height="1.5" fill="#e9b48a" opacity=".7"/>
+  <rect x="150" y="372" width="100" height="1.5" fill="#e9b48a" opacity=".7"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Frasco de perfume rosa con tapa dorada">
+  <defs>
+    <linearGradient id="v" x1="0" x2="1">
+      <stop offset="0" stop-color="#b24a73"/><stop offset=".2" stop-color="#f6a9c6"/><stop offset=".38" stop-color="#d36590"/>
+      <stop offset=".8" stop-color="#b24a73"/><stop offset=".93" stop-color="#ec8bb0"/><stop offset="1" stop-color="#9c3d62"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#8a6a1f"/><stop offset=".35" stop-color="#f6df97"/><stop offset=".6" stop-color="#c9a13b"/><stop offset="1" stop-color="#7a5c18"/>
+    </linearGradient>
+    <radialGradient id="s" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".3"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="200" cy="468" rx="118" ry="14" fill="url(#s)"/>
+  <circle cx="200" cy="68" r="34" fill="url(#g)"/>
+  <rect x="184" y="98" width="32" height="40" fill="url(#g)"/>
+  <path d="M200 146 C120 150 86 214 98 300 C108 376 130 448 150 462 L250 462 C270 448 292 376 302 300 C314 214 280 150 200 146 Z" fill="url(#v)"/>
+  <path d="M130 214 C112 250 112 300 118 336" stroke="#fff" stroke-opacity=".5" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="200" cy="330" rx="46" ry="34" fill="#fff" opacity=".18"/>
+</svg>

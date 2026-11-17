@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Frasco de perfume verde esmeralda con tapa dorada">
+  <defs>
+    <linearGradient id="v" x1="0" x2="1">
+      <stop offset="0" stop-color="#06352c"/><stop offset=".2" stop-color="#1f9d82"/><stop offset=".36" stop-color="#0b4a3d"/>
+      <stop offset=".8" stop-color="#06352c"/><stop offset=".93" stop-color="#17806a"/><stop offset="1" stop-color="#052b24"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#8a6a1f"/><stop offset=".35" stop-color="#f6df97"/><stop offset=".6" stop-color="#c9a13b"/><stop offset="1" stop-color="#7a5c18"/>
+    </linearGradient>
+    <radialGradient id="s" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".3"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="200" cy="468" rx="116" ry="14" fill="url(#s)"/>
+  <path d="M158 40 L242 40 L252 96 L148 96 Z" fill="url(#g)"/>
+  <rect x="176" y="96" width="48" height="40" fill="url(#g)"/>
+  <path d="M104 200 Q104 176 132 174 L268 174 Q296 176 296 200 L296 436 Q296 464 268 464 L132 464 Q104 464 104 436 Z" fill="url(#v)"/>
+  <path d="M120 204 Q120 192 138 190" stroke="#fff" stroke-opacity=".45" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="116" y="212" width="10" height="214" rx="5" fill="#fff" opacity=".16"/>
+  <circle cx="200" cy="340" r="34" fill="none" stroke="#f6df97" stroke-width="2" opacity=".85"/>
+  <circle cx="200" cy="340" r="22" fill="none" stroke="#f6df97" stroke-width="1.5" opacity=".6"/>
+</svg>

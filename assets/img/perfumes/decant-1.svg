@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Decant: atomizador pequeño de vidrio con tapa negra">
+  <defs>
+    <linearGradient id="v" x1="0" x2="1">
+      <stop offset="0" stop-color="#9ec7d8" stop-opacity=".55"/><stop offset=".25" stop-color="#e9f6fb" stop-opacity=".85"/>
+      <stop offset=".5" stop-color="#bcdbe8" stop-opacity=".5"/><stop offset=".9" stop-color="#e2f2f8" stop-opacity=".8"/><stop offset="1" stop-color="#8fb9ca" stop-opacity=".6"/>
+    </linearGradient>
+    <linearGradient id="l" x1="0" x2="1">
+      <stop offset="0" stop-color="#c58a2a"/><stop offset=".25" stop-color="#ffd98e"/><stop offset=".6" stop-color="#e2a53f"/><stop offset="1" stop-color="#a86f1a"/>
+    </linearGradient>
+    <linearGradient id="k" x1="0" x2="1">
+      <stop offset="0" stop-color="#0a0a0c"/><stop offset=".3" stop-color="#3a3a42"/><stop offset=".6" stop-color="#0d0d10"/><stop offset="1" stop-color="#050506"/>
+    </linearGradient>
+    <radialGradient id="s" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".3"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="200" cy="462" rx="70" ry="10" fill="url(#s)"/>
+  <rect x="176" y="40" width="48" height="26" rx="4" fill="url(#k)"/>
+  <rect x="166" y="66" width="68" height="62" rx="6" fill="url(#k)"/>
+  <rect x="174" y="72" width="7" height="50" rx="3" fill="#fff" opacity=".14"/>
+  <rect x="188" y="128" width="24" height="18" fill="#9aa0a8"/>
+  <rect x="132" y="146" width="136" height="316" rx="14" fill="url(#v)" stroke="#fff" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M138 250 L262 250 L262 446 Q262 456 252 456 L148 456 Q138 456 138 446 Z" fill="url(#l)" opacity=".92"/>
+  <rect x="146" y="166" width="8" height="270" rx="4" fill="#fff" opacity=".45"/>
+  <rect x="160" y="306" width="80" height="54" rx="3" fill="#fff" opacity=".9"/>
+  <rect x="170" y="322" width="60" height="3" fill="#0a0a0c" opacity=".7"/>
+  <rect x="180" y="336" width="40" height="3" fill="#0a0a0c" opacity=".4"/>
+</svg>

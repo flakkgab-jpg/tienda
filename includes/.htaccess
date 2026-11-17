@@ -1,0 +1,8 @@
+# Los archivos de /includes son solo para uso interno del sitio
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+</IfModule>
